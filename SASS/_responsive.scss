@@ -1,0 +1,244 @@
+// ## Colors
+// ### Primary
+$Pink: hsl(322, 100%, 66%);
+// ### Neutral
+$Very-Pale-Cyan: hsl(193, 100%, 96%);
+$Very-Dark-Cyan: hsl(192, 100%, 9%);
+$Grayish-Blue: hsl(208, 11%, 55%);
+// font
+$font: 'Poppins',
+sans-serif;
+// # Colors
+// ### Primary
+$Very-Dark-Blue: hsl(243, 87%, 12%);
+$Desaturated-Blue: hsl(238, 22%, 44%);
+// ### Accent
+$Bright-Blue: hsl(224, 93%, 58%);
+$Moderate-Cyan: hsl(170, 45%, 43%);
+// ### Neutral
+$Light-Grayish-Blue: hsl(240, 75%, 98%);
+$Light-Gray: hsl(0, 0%, 75%);
+// ## Typography
+// ### Headings, Call-to-actions, Header Navigation
+// - Weights: 400, 700
+$firstfont: 'Raleway',
+sans-serif;
+// ### Body
+// - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+// - Weights: 400
+$secondfont: 'Open Sans',
+sans-serif;
+@media (min-width: 1440px) {
+    .navi {
+        margin: 65px 80px !important;
+    }
+    .navi .nav-bar li {
+        padding-left: 60px !important;
+    }
+    .top-buttons {
+        margin-top: 23px !important;
+    }
+    #image {
+        margin-right: 58% !important;
+        img {
+            width: 170px !important;
+        }
+    }
+    .nav-bar {
+        li {
+            font-size: 18px !important;
+        }
+    }
+    .sub-container {
+        display: flex !important;
+        flex-direction: row-reverse !important;
+        margin: 0px 80px !important;
+        #first-photo {
+            margin: 0px !important;
+            width: 650px !important;
+        }
+        .sub-division {
+            margin-top: 70px;
+            margin-right: 40px;
+            width: 590px !important;
+            text-align: left;
+            p {
+                padding: 0px;
+                font-size: 18px;
+                margin-top: 18px;
+            }
+            #topi {
+                line-height: 25px;
+                margin-bottom: 0px !important;
+            }
+            h1 {
+                font-size: 40px;
+                font-family: $firstfont;
+                line-height: 55px;
+            }
+        }
+    }
+    .top-buttons {
+        display: flex !important;
+        flex-direction: row !important;
+        input {
+            padding: 13px !important;
+            margin: 0px 15px 0px 0px!important;
+            font-size: 15px !important;
+            width: 54% !important;
+        }
+        button {
+            padding: 13px !important;
+            font-size: 15px !important;
+            width: 34% !important;
+        }
+    }
+    .pre-bottom-content {
+        display: flex !important;
+        flex-direction: row !important;
+        padding: 100px 80px !important;
+    }
+    .first-sub-div-pre-bottom-content {
+        width: 50% !important;
+        h3 {
+            margin: 0px !important;
+            text-align: left;
+            font-size: 30px !important;
+            margin-bottom: 20px !important;
+        }
+        p {
+            text-align: left;
+            font-size: 15.5px !important;
+            line-height: 24px !important;
+            margin: 0px !important;
+            letter-spacing: 1px;
+        }
+    }
+    .second-sub-div-pre-bottom-content {
+        width: 50% !important;
+        display: flex;
+        flex-direction: column;
+        margin-left: 210px !important;
+        button {
+            align-self: flex-start !important;
+            margin: 0px !important;
+            font-size: 14px !important;
+            font-weight: 700 !important;
+            padding: 14px !important;
+            width: 200px !important;
+        }
+        input {
+            align-self: flex-start !important;
+            padding: 14px !important;
+            width: 480px !important;
+            margin-bottom: 16px !important;
+            font-size: 13px !important;
+        }
+    }
+    .sub-container2 {
+        margin-top: 170px !important;
+        background-size: 260rem 49rem !important;
+        padding: 180px 80px 0px 80px !important;
+        display: flex !important;
+        flex-direction: row-reverse !important;
+        .first-sub-division {
+            width: 550px;
+            img {
+                width: 100% !important;
+            }
+        }
+        .second-sub-division {
+            width: 685px;
+            margin-right: 80px;
+            text-align: left !important;
+            article {
+                width: 360px !important;
+                height: 215px !important;
+            }
+        }
+        h3 {
+            font-size: 40px !important;
+        }
+        #non-sense {
+            font-size: 16px !important;
+            padding-right: 120px;
+            color: $Very-Dark-Cyan !important;
+        }
+        .non-sense2 {
+            margin-top: 21px !important;
+        }
+        article {
+            margin-top: 44px !important;
+            margin-bottom: 113px !important;
+        }
+    }
+    .strangebutton {
+        align-self: flex-start !important;
+        text-align: left !important;
+        width: 175px !important;
+        margin-top: 21px !important;
+        p {
+            font-size: 16px !important;
+        }
+    }
+    .sub-container2 article img {
+        width: 15px !important;
+        margin-bottom: 9px!important;
+    }
+    .sub-container2 article p {
+        line-height: 18px!important;
+        font-size: 13px!important;
+    }
+    .sub-container2 article .mini-box img {
+        width: 31px!important;
+        margin-right: 8px!important;
+        margin-bottom: 0px !important;
+    }
+    .sub-container2 article .mini-box .info p {
+        letter-spacing: 0px!important;
+        font-size: 9px!important;
+        line-height: 15px !important;
+    }
+    #fylo-info {
+        letter-spacing: 1px;
+        line-height: 20px !important;
+    }
+    .sub-container2 article .mini-box {
+        margin-top: 30px !important;
+    }
+    .sub-container2 .article h3 {
+        margin-top: 0px !important;
+    }
+    .bottom-content {
+        padding: 115px 80px 65px 80px !important;
+        display: flex;
+        flex-direction: row;
+        .page-info-2 {
+            margin-top: 0px !important;
+        }
+        .page-info {
+            margin: 60px 205px 0px 0px !important;
+        }
+        .contact-info {
+            padding-top: 0px !important;
+            img {
+                margin-bottom: -240px !important;
+                margin-right: 145px !important;
+            }
+            li {
+                padding: 7px 0px !important;
+            }
+        }
+        .social-media {
+            padding: 60px 0px 0px 0px !important;
+            justify-content: left !important;
+            margin-left: -20px !important;
+            li {
+                font-size: 15px !important;
+                width: 30px !important;
+                height: 30px !important;
+                margin: 7px !important;
+            }
+        }
+    }
+}
