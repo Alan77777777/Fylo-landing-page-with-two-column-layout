@@ -24,7 +24,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 🔗 Repository: [https://github.com/Alan77777777/Fylo-landing-page-with-two-column-layout.git](https://github.com/Alan77777777/Fylo-landing-page-with-two-column-layout.git)
 
-🔗 Live Site URL: [https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/](https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/)
+🔗 Live Site URL: [https://fylo-landing-page-with-two-column-lay.netlify.app/](https://fylo-landing-page-with-two-column-lay.netlify.app/)
 
 ### Built with 
 
