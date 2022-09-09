@@ -20,7 +20,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links 
 
-🔗 Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-fjx4JZSNjj](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-fjx4JZSNjj)
+🔗 Solution URL: [https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-R0A8jCCrG5](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-R0A8jCCrG5)
 
 🔗 Repository: [https://github.com/Alan77777777/Fylo-landing-page-with-two-column-layout.git](https://github.com/Alan77777777/Fylo-landing-page-with-two-column-layout.git)
 
